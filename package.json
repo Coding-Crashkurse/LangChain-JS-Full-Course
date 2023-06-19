@@ -1,0 +1,27 @@
+{
+  "name": "langchainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course/issues"
+  },
+  "homepage": "https://github.com/Coding-Crashkurse/LangChain-JS-Full-Course#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "faiss-node": "^0.2.1",
+    "langchain": "^0.0.95",
+    "openai": "^3.3.0"
+  }
+}
