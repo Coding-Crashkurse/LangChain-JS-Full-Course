@@ -2,7 +2,7 @@
 
 This repository contains a series of example scripts showcasing the usage of Langchain, a JavaScript library for creating conversational AI applications.
 
-- `00_basics.js`: Introduces the basic concepts and components of Langchain.
+- `00_basics.js`: Introduces the basics of using the OpenAI API without Langchain.
 - `01_first_chain.js`: Demonstrates how to create your first conversation chain in Langchain.
 - `02_parsers.js`: Shows how to use parsers to process input and output in a conversation chain.
 - `03_indexes.js`: Explains how to create and use indexes in Langchain for efficient retrieval of information.
