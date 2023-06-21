@@ -20,5 +20,5 @@ console.log(documents);
 
 const embeddings = new OpenAIEmbeddings();
 
-const vectorstore = await FaissStore.fromDocuments(docs, embeddings);
+const vectorstore = await FaissStore.fromDocuments(documents, embeddings);
 await vectorstore.save("./");
